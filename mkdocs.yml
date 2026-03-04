@@ -2,7 +2,7 @@ site_name: AlienCommons Docs
 site_url: https://lazyalienserver.github.io/alien-commons-docs/
 
 nav:
-  - Home: home.md
+  - Home: index.md
   - About: about.md
 
 theme:
