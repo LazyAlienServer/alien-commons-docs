@@ -1,0 +1,8 @@
+site_name: AlienCommons Docs
+
+nav:
+  - Home: home.md
+  - About: about.md
+
+theme:
+  name: material
